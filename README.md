@@ -13,7 +13,6 @@ I built this project to practice Python programming, database operations and obj
 - Streamlit
 - Pandas
 - Matplotlib
-- Git & GitHub
 
 ## 📁 Project Structure
 
